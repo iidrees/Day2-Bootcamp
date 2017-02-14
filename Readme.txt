@@ -15,3 +15,4 @@ Thereafter run jasmine through the commandline.
 How To Run The HTTP program
 
 ensure you have node.js installed and then go ahead to run $node httpAPI in the commande line.
+To run the test, install npm node-rest-client.
