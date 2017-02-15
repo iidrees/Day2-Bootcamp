@@ -5,7 +5,7 @@ Both functions have tests suites provided for them.
 
 The last task is to write an simple http client program that consumes a public API
 
-I was supposed to write test for the getPrimes and OOP programs, but I could only write for the getPrimes program.
+
 
 How To Run The Text
 
